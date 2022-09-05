@@ -12,6 +12,4 @@ int main()
   {
     cout<<"b is greater";
   }
-  
-  
 }

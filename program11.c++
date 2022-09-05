@@ -1,12 +1,11 @@
 #include<iostream>
 using namespace std;
-
 int main()
 {
-  int a=10,b=5;
-  if (a>b)
+  int i=0;
+  while(i<5)
   {
-    cout<<"a is greater";
+    cout<<i<<endl;
+    i++;
   }
-
 }
