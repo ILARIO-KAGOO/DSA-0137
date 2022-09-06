@@ -6,14 +6,14 @@ void add(int a,int b)
   int c = a+b;
   cout<<c<<endl;
 }
-void add(double a,double b)
+void add(float a,float b)
 {
-  double c = a+b;
+  float c = a+b;
   cout<<c<<endl;
 }
 
 int main()
 {
   add(1,2);
-  add(0.5,0.5);
+  add(0.5f,0.5f);
 }
