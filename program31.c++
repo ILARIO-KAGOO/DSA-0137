@@ -10,7 +10,7 @@ void rev(int a)
     s = s*10+q;
     a/=10;
   }
-  cout<<s;
+  cout<<"reverse of given number: "s;
 }
 
 int main()
