@@ -3,9 +3,9 @@ using namespace std;
 
 int main()
 {
-  int m=20,n=30,gcd,lcm,d=1;
+  int m=12,n=24,gcd,lcm,d=1;
 
-  while(true)
+  while(d<1000)
   {
     if (d%n==0 && d%m==0)
     {
