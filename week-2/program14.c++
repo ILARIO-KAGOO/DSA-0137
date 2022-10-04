@@ -14,7 +14,7 @@ int main()
     temp/= 10;
   }
   if (sum == n)
-  {  cout<<n<<" is an armstrong number";}
+  {  cout<<n<<" is a armstrong number";}
   else
-  {  cout<<n<<" is not an armstrong number";}
+  {  cout<<n<<" is not a armstrong number";}
 }
