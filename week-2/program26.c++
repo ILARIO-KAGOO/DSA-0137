@@ -59,5 +59,5 @@ class job: public oops , public work , public html
 
 int main()
 {
-  job obj;
+  college obj;
 }
