@@ -20,4 +20,9 @@ class marks: public sem
   public:
     marks()
     { cout << "c: "<< 20 <<endl;}
-};   
+};
+
+int main()
+{
+  marks obj;
+}
