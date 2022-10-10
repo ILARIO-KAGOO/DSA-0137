@@ -61,5 +61,5 @@ class calculator: public add, public sub, public mul, public div
 
 int main()
 {
-  calculator obj(5,2,'*');
+  calculator obj(5,2,'+');
 }
